@@ -4,6 +4,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devpullcode&show_icons=true&count_private=true&hide_border=true&locale=es&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpullcode&layout=compact&custom_title=Lenguajes"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpullcode&layout=compact&hide_title=true"/>
 </a>
+
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdevpullcodelive)
 
